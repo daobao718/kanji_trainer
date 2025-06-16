@@ -1,0 +1,1 @@
+{"dataset_names": ["kmnist"], "original_fname": "t10k-labels-idx1-ubyte.gz", "url_info": {"checksum": "20bb9a0ef54c7db3efc55a92eef5582c109615df22683c380526788f98e42a1c", "filename": "t10k-labels-idx1-ubyte.gz", "size": 5120}, "urls": ["http://codh.rois.ac.jp/kmnist/dataset/kmnist/t10k-labels-idx1-ubyte.gz"]}

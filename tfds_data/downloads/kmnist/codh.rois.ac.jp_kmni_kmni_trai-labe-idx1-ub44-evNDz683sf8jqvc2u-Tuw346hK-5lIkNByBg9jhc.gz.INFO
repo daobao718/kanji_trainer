@@ -1,0 +1,1 @@
+{"dataset_names": ["kmnist"], "original_fname": "train-labels-idx1-ubyte.gz", "url_info": {"checksum": "e38f9ebcd0f3ebcdec7fc8eabdcdaef93bb0df8ea12bee65224341c8183d8e17", "filename": "train-labels-idx1-ubyte.gz", "size": 29497}, "urls": ["http://codh.rois.ac.jp/kmnist/dataset/kmnist/train-labels-idx1-ubyte.gz"]}

@@ -1,0 +1,1 @@
+{"dataset_names": ["kmnist"], "original_fname": "train-images-idx3-ubyte.gz", "url_info": {"checksum": "51467d22d8cc72929e2a028a0428f2086b092bb31cfb79c69cc0a90ce135fde4", "filename": "train-images-idx3-ubyte.gz", "size": 18165135}, "urls": ["http://codh.rois.ac.jp/kmnist/dataset/kmnist/train-images-idx3-ubyte.gz"]}
